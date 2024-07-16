@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\validators\\beerupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|c:\\users\\usuario\\source\\repos\\backend-curso\\backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96820CB3-6646-4AF0-8F54-66E540F65241}|Backend\\Backend.csproj|solutionrelative:backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BeerUpdateValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Validators\\BeerUpdateValidator.cs",
-              "RelativeDocumentMoniker": "Backend\\Validators\\BeerUpdateValidator.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Validators\\BeerUpdateValidator.cs",
-              "RelativeToolTip": "Backend\\Validators\\BeerUpdateValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "DocumentIndex": 0,
+              "Title": "BeerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Repository\\BeerRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repository\\BeerRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Repository\\BeerRepository.cs",
+              "RelativeToolTip": "Backend\\Repository\\BeerRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA5wBcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T22:48:39.037Z",
+              "WhenOpened": "2024-07-16T21:45:05.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BeerInsertValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Validators\\BeerInsertValidator.cs",
-              "RelativeDocumentMoniker": "Backend\\Validators\\BeerInsertValidator.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Validators\\BeerInsertValidator.cs",
-              "RelativeToolTip": "Backend\\Validators\\BeerInsertValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Backend\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:37:47.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BeerController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Controllers\\BeerController.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\BeerController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Controllers\\BeerController.cs",
-              "RelativeToolTip": "Backend\\Controllers\\BeerController.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAowF4AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:26:55.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BeerInsertDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerInsertDto.cs",
-              "RelativeDocumentMoniker": "Backend\\DTOs\\BeerInsertDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerInsertDto.cs",
-              "RelativeToolTip": "Backend\\DTOs\\BeerInsertDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:19:08.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BeerDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerDto.cs",
-              "RelativeDocumentMoniker": "Backend\\DTOs\\BeerDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerDto.cs",
-              "RelativeToolTip": "Backend\\DTOs\\BeerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:17:42.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\appsettings.json",
-              "RelativeToolTip": "Backend\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T06:29:23.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Program.cs",
-              "RelativeToolTip": "Backend\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T06:29:20.858Z",
+              "WhenOpened": "2024-07-16T21:40:58.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Backend",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Backend.csproj",
-              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Backend.csproj",
-              "RelativeToolTip": "Backend\\Backend.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T21:37:12.528Z",
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Services\\ICommonService.cs",
+              "RelativeToolTip": "Backend\\Services\\ICommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:11:01.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BeerUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerUpdateDto.cs",
-              "RelativeDocumentMoniker": "Backend\\DTOs\\BeerUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\DTOs\\BeerUpdateDto.cs",
-              "RelativeToolTip": "Backend\\DTOs\\BeerUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:20:02.953Z",
+              "WhenOpened": "2024-07-16T18:35:56.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Models\\Beer.cs",
-              "RelativeDocumentMoniker": "Backend\\Models\\Beer.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Models\\Beer.cs",
-              "RelativeToolTip": "Backend\\Models\\Beer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "DocumentIndex": 1,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\BeerService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Services\\BeerService.cs",
+              "RelativeToolTip": "Backend\\Services\\BeerService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T06:21:35.034Z",
+              "WhenOpened": "2024-07-16T18:34:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\backend-curso\\Backend\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\BeerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:26:55.595Z",
               "EditorCaption": ""
             }
           ]

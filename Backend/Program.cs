@@ -1,5 +1,6 @@
 using Backend.DTOs;
 using Backend.Models;
+using Backend.Repository;
 using Backend.Services;
 using Backend.Validators;
 using FluentValidation;
@@ -11,18 +12,20 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddKeyedSingleton<IPeopleService, PeopleService>("peopleService");
 builder.Services.AddKeyedSingleton<IPeopleService, People2Service>("people2Service");
-
 builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomSinglenton");
 builder.Services.AddKeyedScoped<IRandomService, RandomService>("randomScoped");
 builder.Services.AddKeyedTransient<IRandomService, RandomService>("randomTransient");
-
 builder.Services.AddScoped<IPostsService, PostsService>();
+builder.Services.AddKeyedScoped<ICommonService<BeerDto, BeerInsertDto, BeerUpdateDto>, BeerService>("beerService");
 
 // HttpClient servicio jsonplaceholder
 builder.Services.AddHttpClient<IPostsService, PostsService>(c =>
 {
     c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
 });
+
+//Repository
+builder.Services.AddScoped<IRepository<Beer>, BeerRepository>();
 
 // Entity framework
 builder.Services.AddDbContext<StoreContext>(options =>
