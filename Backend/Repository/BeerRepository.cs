@@ -21,16 +21,18 @@ namespace Backend.Repository
         public async Task Add(Beer beer)
             => await _context.Beers.AddAsync(beer);
 
-        public void Update(Beer entity)
+        public void Update(Beer beer)
         {
-            throw new NotImplementedException();
+            _context.Beers.Attach(beer);
+            _context.Beers.Entry(beer).State = EntityState.Modified;
         }
 
-        public void Delete(Beer entity)
-        {
-            throw new NotImplementedException();
-        }
+        public void Delete(Beer beer)
+            => _context.Beers.Remove(beer);
         public async Task Save()
             => await _context.SaveChangesAsync();
+
+        public IEnumerable<Beer> Search(Func<Beer, bool> filter) =>
+            _context.Beers.Where(filter).ToList();
     }
 }
